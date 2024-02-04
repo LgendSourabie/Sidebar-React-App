@@ -1,0 +1,10 @@
+.social-link-container {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.social-link-container a {
+  color: rgb(73, 166, 233);
+  font-size: 1.5rem;
+}

@@ -1,0 +1,10 @@
+section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-block: 1rem 2rem;
+  width: 400px;
+  background-color: white;
+  transform: translateX(-400px);
+}

@@ -1,0 +1,15 @@
+.menu-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: 1.5rem;
+}
+.menu-header img {
+  width: 190px;
+}
+
+.icon-clr {
+  font-size: large;
+  color: brown;
+  cursor: pointer;
+}
